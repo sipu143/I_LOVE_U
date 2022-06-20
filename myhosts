@@ -16,5 +16,5 @@
 
 
 [mywebservers:vars]
-mywebpackinstallubuntu: apache2
-mywebpackinstallRedHat: httpd
+mywebpackinstallubuntu:apache2
+mywebpackinstallRedHat:httpd
