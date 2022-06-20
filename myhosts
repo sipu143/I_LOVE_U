@@ -11,3 +11,10 @@
 [myDBservers]
 172.31.14.255
 172.31.24.320
+
+
+
+
+[mywebservers:vars]
+mywebpackinstallubuntu: apache2
+mywebpackinstallRedHat: httpd
