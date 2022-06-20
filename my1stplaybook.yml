@@ -6,4 +6,9 @@
      apt:
        name: tree
        state: present
-       
+
+   - name: i want to install wget on ansible ubuntu nodes
+     apt:
+       name: wget
+       state: present
+           
